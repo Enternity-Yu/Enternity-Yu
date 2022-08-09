@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning JavaScript、CSS、react、vue......
+- 🌱 I’m currently learning JavaScript、CSS、React、Vue......
 - 📫 How to reach me: 1159348642@qq.com
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Enternity-Yu&show_icons=true&theme=onedark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Enternity-Yu&show_icons=true&theme=tokyonight)
 
 
 <p> <!--align="center"-->
@@ -17,7 +17,7 @@
 </div>
 
 <div> <!--align="center"-->
-    <img src="https://activity-graph.herokuapp.com/graph?username=Enternity-Yu&theme=minimal" />
+    <img src="https://activity-graph.herokuapp.com/graph?username=Enternity-Yu&theme=xcode" />
 </div>
 
 <!--
