@@ -2,7 +2,7 @@
 
 I’m currently learning JavaScript、CSS、react、vue......
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Enternity-Yu&show_icons=true&theme= tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Enternity-Yu)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
