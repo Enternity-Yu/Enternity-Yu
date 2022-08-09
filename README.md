@@ -13,7 +13,7 @@
 </p>
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=algolia)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Enternity-Yu&theme=algolia)](https://git.io/streak-stats)
 
 <div> <!--align="center"-->
     <img src="https://activity-graph.herokuapp.com/graph?username=Enternity-Yu&theme=xcode" />
