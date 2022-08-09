@@ -4,7 +4,22 @@ I’m currently learning JavaScript、CSS、react、vue......
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Enternity-Yu&show_icons=true&theme=radical)(https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Enternity-Yu&show_icons=true&theme=onedark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enternity-Yu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Enternity-Yu)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="center">
+   <img src="https://readme-typing-svg.herokuapp.com?color=28696B&size=21&center=true&lines=%E9%97%AA%E9%97%AA%E5%8F%91%E4%BA%AE%EF%BC%8C%E9%97%AA%E9%97%AA%E5%8F%91%E4%BA%AE;Enternity-Yu+%E7%A5%9D%E4%BD%A0%E4%BB%8A%E6%97%A5%E6%84%89%E5%BF%AB" alt="typing-svg">
+</p>
+
+<div align="center">
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Enternity-Yu" />
+</div>
+
+<div align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=Enternity-Yu&theme=minimal" />
+</div>
+
 <!--
 **Enternity-Yu/Enternity-Yu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
